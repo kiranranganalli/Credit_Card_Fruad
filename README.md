@@ -59,7 +59,9 @@ Highlight patterns and transaction behaviors commonly associated with fraud.
 Provide actionable insights for stakeholders.
 
 <img width="459" alt="image" src="https://github.com/user-attachments/assets/052961ed-e008-4983-b4c3-a3def272f665" />
+
 <img width="459" alt="image" src="https://github.com/user-attachments/assets/b120f61b-61eb-4b20-8d68-6ab5a703dd27" />
+
 <img width="412" alt="image" src="https://github.com/user-attachments/assets/87011d98-5e88-4c15-a3a4-34498ec410b7" />
 
 *Results*
