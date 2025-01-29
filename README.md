@@ -1,7 +1,7 @@
-## *Fraud Detection in Credit Card Transactions*
+# *Fraud Detection in Credit Card Transactions*
 
 
-# *Overview*
+## *Overview*
 
 This project focuses on building a robust and efficient machine learning pipeline to detect fraudulent credit card transactions in real-time. With the rising threat of online transaction fraud, financial safety has become a critical priority for individuals and organizations. The project leverages advanced machine learning algorithms to tackle the challenges of fraud detection, including high class imbalance and the need for precise prediction.
 
@@ -25,7 +25,7 @@ Highly imbalanced dataset (fraud to non-fraud ratio: ~0.0017).
 
 *Project Workflow*
 
-# *Problem Definition:*
+## *Problem Definition:*
 
 Identify the key challenges in detecting fraud from transactional data.
 
